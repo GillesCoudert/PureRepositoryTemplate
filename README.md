@@ -1,25 +1,26 @@
 # PureXxx
 
-TODO: badges
+TODO: Add badges
 
 > TODO: Short description of PureXxx
 
 ## Why PureXxx ?
 
-TODO
+TODO: Explain the motivation for PureXxx
 
 ## PureXxx in the PureFramework
 
-TODO: Mermaid
+TODO: Mermaid diagram showing the location and dependencies of this library in the PureFramework ecosystem.
 
 ## Quick Start
 
-TODO
+TODO: Installation and ultra-simple example following best practices.
 
 ## Advanced documentation
 
-[Best practices](docs/best_practices.md) TODO
-[Examples](docs/examples.md) TODO
+[API](docs/api.md) TODO: Add the complete documentation of the library API.
+[Best practices](docs/best_practices.md) TODO: Complete best practices to be followed by human users and AI agents.
+[Examples](docs/examples.md) TODO: Add examples illustrating best practices.
 
 ## Contributing
 
